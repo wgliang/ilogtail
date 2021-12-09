@@ -1077,6 +1077,8 @@ github.com/syndtr/goleveldb v0.0.0-20170725064836-b89cc31ef797 h1:eDCldGfZxcrXnT
 github.com/syndtr/goleveldb v0.0.0-20170725064836-b89cc31ef797/go.mod h1:Z4AUp2Km+PwemOoO/VB5AOx9XSsIItzFjoJlOSiYmn0=
 github.com/tchap/go-patricia v2.3.0+incompatible h1:GkY4dP3cEfEASBPPkWd+AmjYxhmDkqO9/zg7R0lSQRs=
 github.com/tchap/go-patricia v2.3.0+incompatible/go.mod h1:bmLyhP68RS6kStMGxByiQ23RP/odRBOTVjwp2cDyi6I=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.309 h1:pOe27QNV0cUcHo9LUiN1DCchmtAQVYDVGN0UvUsUlmc=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.309/go.mod h1:7sCQWVkxcsR38nffDW057DRGk8mUjK1Ing/EFOK8s8Y=
 github.com/tidwall/pretty v1.0.0/go.mod h1:XNkn88O1ChpSDQmQeStsy+sBenx6DDtFZJxhVysOjyk=
 github.com/tinylib/msgp v1.0.2/go.mod h1:+d+yLhGm8mzTaHzB+wgMYrodPfmZrzkirds8fDWklFE=
 github.com/tmc/grpc-websocket-proxy v0.0.0-20170815181823-89b8d40f7ca8/go.mod h1:ncp9v5uamzpCO7NfCPTXjqaC+bZgJeR0sMTm6dMHP7U=

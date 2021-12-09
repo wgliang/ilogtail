@@ -1,0 +1,30 @@
+{
+    "inputs": [
+        {
+            "type": "metric_debug_file",
+            "detail": {
+                "InputFilePath": "XXX"
+            }
+        },
+        {
+            "type": "metric_mock",
+            "detail": {
+                "Fields": {
+                    "1111": "2222"
+                }
+            }
+        }
+    ],
+    "processors": [],
+    "flushers": [
+        {
+            "type": "flusher_cls",
+            "detail": {
+                "SecretID": "XXX",
+                "SecretKey": "XXX",
+                "Region": "ap-guangzhou",
+                "Topic": "XX"
+            }
+        }
+    ]
+}

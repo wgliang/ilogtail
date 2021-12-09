@@ -75,7 +75,9 @@ require (
 	github.com/syndtr/gocapability v0.0.0-20200815063812-42c35b437635 // indirect
 	github.com/syndtr/goleveldb v0.0.0-20170725064836-b89cc31ef797
 	github.com/tchap/go-patricia v2.3.0+incompatible // indirect
+	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.309
 	go.uber.org/atomic v1.7.0
+	go.uber.org/zap v1.16.0
 	golang.org/x/sys v0.0.0-20210915083310-ed5796bab164
 	golang.org/x/text v0.3.6 // indirect
 	google.golang.org/grpc v1.40.0
